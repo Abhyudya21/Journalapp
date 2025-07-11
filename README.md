@@ -1,0 +1,2 @@
+# Journalapp
+Learning Spring Boot
